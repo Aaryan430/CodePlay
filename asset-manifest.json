@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/CodePlay/static/css/main.37968fdb.chunk.css",
+    "main.js": "/CodePlay/static/js/main.ecde2095.chunk.js",
+    "main.js.map": "/CodePlay/static/js/main.ecde2095.chunk.js.map",
+    "runtime-main.js": "/CodePlay/static/js/runtime-main.1d2b6620.js",
+    "runtime-main.js.map": "/CodePlay/static/js/runtime-main.1d2b6620.js.map",
+    "static/css/2.956998bb.chunk.css": "/CodePlay/static/css/2.956998bb.chunk.css",
+    "static/js/2.079cee4d.chunk.js": "/CodePlay/static/js/2.079cee4d.chunk.js",
+    "static/js/2.079cee4d.chunk.js.map": "/CodePlay/static/js/2.079cee4d.chunk.js.map",
+    "index.html": "/CodePlay/index.html",
+    "static/css/2.956998bb.chunk.css.map": "/CodePlay/static/css/2.956998bb.chunk.css.map",
+    "static/css/main.37968fdb.chunk.css.map": "/CodePlay/static/css/main.37968fdb.chunk.css.map",
+    "static/js/2.079cee4d.chunk.js.LICENSE.txt": "/CodePlay/static/js/2.079cee4d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d2b6620.js",
+    "static/css/2.956998bb.chunk.css",
+    "static/js/2.079cee4d.chunk.js",
+    "static/css/main.37968fdb.chunk.css",
+    "static/js/main.ecde2095.chunk.js"
+  ]
+}
